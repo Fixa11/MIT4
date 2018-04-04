@@ -5,7 +5,7 @@ CHATBOT
 
 
 
-downlaod the lib chatterbot using pip
+downlaod the lib chatterbot using pip install chatterbot
 
 Go the folder AIG_Project
 
