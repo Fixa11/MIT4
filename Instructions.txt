@@ -1,6 +1,19 @@
-downlaod the lib chatterbot using pip install chatterbot
+install the lib chatterbot using pip install chatterbot
+install selenium using pip install selenium
+install espeak using sudo pip install espeak
+install geckodriver using sudopip install geckodriver
+make the geckodriver executable  using chmod u+x geckodriver
+move the geckodriver into the dir usr/local/bin by typing (rm geckodriver /usr/local/bin)
 
 Go the folder AIG_Project
 
 run Trainmodel to Train the model
 Run ChatGoogle to chat/google with the model 
+
+members:
+FILLEMONS SILVANUS	 	  216092639
+HAIKALI PHILLIP	        216051665
+JASON HOSEA			        216050200
+CHIMBA EDWARD		        216012392
+
+
